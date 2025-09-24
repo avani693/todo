@@ -28,12 +28,3 @@ A simple and intuitive **Todo App** built with **React**, utilizing **Context AP
 - **Local Storage** - Data persistence
 - **CSS / Tailwind / Styled-Components** - Styling (specify what you used)
 
----
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/react-todo-app.git
-cd react-todo-app
