@@ -16,7 +16,8 @@ A simple and intuitive **Todo App** built with **React**, utilizing **Context AP
 
 ## Demo
 
-![App Screenshot]()
+![App Screenshot](SS1.png)
+![App Screenshot](SS2.png)
 
 ---
 
